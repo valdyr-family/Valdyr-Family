@@ -1,6 +1,6 @@
 ---
 title:  "Weylyn Valdyr"
-subtitle: "Kur of Torvaldsland"
+subtitle: "Giant of Torvalds"
 author: "Weylyn"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
